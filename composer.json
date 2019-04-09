@@ -1,5 +1,5 @@
 {
-  "name": "rjjakes/wordpress-orm",
+  "name": "juslintek/wordpress-orm",
   "description": "WORM. Doctrine style ORM for Wordpress.",
   "keywords": ["wordpress", "plugin", "orm", "doctrine", "composer", "sql"],
   "homepage": "https://github.com/rjjakes/wordpress-orm",
